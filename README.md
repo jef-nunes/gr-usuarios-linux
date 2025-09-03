@@ -1,5 +1,5 @@
 ## Sobre
-Alguns scripts úteis para o gerenciamento de usuários locais no Linux. Os scripts estão disponíveis em shell script e python.
+Alguns scripts úteis para o gerenciamento de usuários locais no Linux. Os scripts estão disponíveis em shell script (Bash) e Python.
 
 ## Lista de scripts
 + **gerar_senha**:   Gerar uma senha aleatória e forte e em seguida exibe o resultado no terminal.<br>
