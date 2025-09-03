@@ -1,5 +1,5 @@
 ## Sobre
-Alguns scripts úteis para o gerenciamento de usuários locais no Linux. <br>
+Alguns scripts úteis para o gerenciamento de usuários locais no Linux. <br><br>
 Os scripts estão disponíveis em shell script (Bash) e Python.
 
 ## Lista de scripts
